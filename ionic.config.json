@@ -1,0 +1,7 @@
+{
+  "name": "Foro Final Fantasy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
